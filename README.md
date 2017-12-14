@@ -8,5 +8,4 @@ Year 3 Mobile application programming project
     <li style="margin-left: 16px;">Sarah Mwangi - 089111</li>
     <li>Kihuha Sam</li>
     <li>Ombogo Elijah</li>
-    <li>List Item 3 Text</li>
 </ul>
